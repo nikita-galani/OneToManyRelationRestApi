@@ -5,9 +5,13 @@ This project is a Spring Boot-based RESTful API that manages Categories and Prod
 In this application ,Category CRUD operation are
 
 1.http://localhost:8080/api/categories?page=3-> GET all the categories
+
 2.http://localhost:8080/api/categories-POST -> create a new category
+
 3.http://localhost:8080/api/categories/{di}-> GET category by Id
+
 4.http://localhost:8080/api/categories/{di}-> PUT - update category by id
+
 5.http://localhost:8080/api/categories/{di}-> DELETE - Delete category by id
 
 Product CRUD operation.
